@@ -1,0 +1,16 @@
+{
+  "name": "@suhanpatil/medium-token",
+  "version": "1.0.2",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "release-plan": "^0.18.0",
+    "zod": "^4.3.6"
+  }
+}

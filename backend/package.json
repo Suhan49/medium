@@ -10,12 +10,13 @@
     "@100xdevs/medium-common": "^1.0.0",
     "@prisma/adapter-neon": "^7.6.0",
     "@prisma/client": "^7.6.0",
-    "@prisma/extension-accelerate": "^3.0.1",
+    "@suhanpatil/medium-token": "^1.0.2",
     "hono": "^4.12.9",
     "prisma": "^7.6.0"
   },
   "devDependencies": {
     "@types/node": "^25.5.0",
     "wrangler": "^4.4.0"
-  }
+  },
+  "version": "0.0.1"
 }
